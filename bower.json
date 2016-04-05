@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "ol3-cesium",
   "version": "v1.14.0",
   "keywords": [
@@ -32,6 +32,9 @@
     },
   },
   "authors": [ "ol3" ],
+  "ignore": [
+     ".git*"
+  ],
   "license": "MIT",
   "typescript": {
     "definition": [  ]
