@@ -29,7 +29,7 @@
         "v1.14.0/ol3cesium.js.map",
         "v1.14.0/ol3cesium-debug.js"
       ]
-    },
+    }
   },
   "authors": [ "ol3" ],
   "ignore": [
