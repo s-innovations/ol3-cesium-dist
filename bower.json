@@ -5,7 +5,7 @@
     "map",
     "mapping",
     "ol3",
-    "ol3-cesium",
+    "ol3-cesium"
   ],
   "repository": {
     "type": "git",
