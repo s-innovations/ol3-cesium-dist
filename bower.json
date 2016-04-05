@@ -1,0 +1,42 @@
+{
+  "name": "ol3-cesium",
+  "version": "v1.14.0",
+  "keywords": [
+    "map",
+    "mapping",
+    "ol3",
+    "ol3-cesium"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/openlayers/ol3-cesium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/openlayers/ol3-cesium/issues"
+  },
+  "homepage": "http://openlayers.org/",
+  "private": true,
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "s-innovations/ol3-dist#9822a16"
+  },
+  "exportsOverride": {
+    "ol3-cesium": {
+      "ol3-cesium/v1.14.0": [
+        "v1.14.0/ol3cesium.js",
+        "v1.14.0/ol3cesium.js.map",
+        "v1.14.0/ol3cesium-debug.js"
+      ]
+    }
+  },
+  "authors": [ "ol3" ],
+  "ignore": [
+     ".git*"
+  ],
+  "license": "MIT",
+  "typescript": {
+    "definition": [  ]
+  }
+}
