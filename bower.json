@@ -20,7 +20,7 @@
 
   },
   "devDependencies": {
-    "s-innovations/ol3-dist#9822a16"
+    "ol3":"s-innovations/ol3-dist#9822a16"
   },
   "exportsOverride": {
     "ol3-cesium": {
